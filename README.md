@@ -1,4 +1,6 @@
 # rcollaboration
 
 I am adding an edit - Azwad
-This is Nina writing
+
+I am creating a merge conflict, and Nina is also writing!
+
